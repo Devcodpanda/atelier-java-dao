@@ -2,7 +2,7 @@ package fr.wildcodeschool.students.models;
 
 public class Student {
 
-    private String name;
+    public String name;
 
     public Student() {
     }
